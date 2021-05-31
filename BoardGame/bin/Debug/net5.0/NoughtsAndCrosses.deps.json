@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NoughtsAndCrosses/1.0.0": {
+        "dependencies": {
+          "NoughtsAndCrosses.Library": "1.0.0"
+        },
+        "runtime": {
+          "NoughtsAndCrosses.dll": {}
+        }
+      },
+      "NoughtsAndCrosses.Library/1.0.0": {
+        "runtime": {
+          "NoughtsAndCrosses.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NoughtsAndCrosses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NoughtsAndCrosses.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
