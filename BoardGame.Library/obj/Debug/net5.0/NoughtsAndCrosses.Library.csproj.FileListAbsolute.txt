@@ -1,0 +1,16 @@
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\obj\Debug\net5.0\NoughtsAndCrosses.Library.csprojAssemblyReference.cache
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\obj\Debug\net5.0\NoughtsAndCrosses.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\obj\Debug\net5.0\NoughtsAndCrosses.Library.AssemblyInfoInputs.cache
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\obj\Debug\net5.0\NoughtsAndCrosses.Library.AssemblyInfo.cs
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\obj\Debug\net5.0\NoughtsAndCrosses.Library.csproj.CoreCompileInputs.cache
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\bin\Debug\net5.0\NoughtsAndCrosses.Library.exe
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\bin\Debug\net5.0\NoughtsAndCrosses.Library.deps.json
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\bin\Debug\net5.0\NoughtsAndCrosses.Library.runtimeconfig.json
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\bin\Debug\net5.0\NoughtsAndCrosses.Library.runtimeconfig.dev.json
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\bin\Debug\net5.0\NoughtsAndCrosses.Library.dll
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\bin\Debug\net5.0\ref\NoughtsAndCrosses.Library.dll
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\bin\Debug\net5.0\NoughtsAndCrosses.Library.pdb
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\obj\Debug\net5.0\NoughtsAndCrosses.Library.dll
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\obj\Debug\net5.0\ref\NoughtsAndCrosses.Library.dll
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\obj\Debug\net5.0\NoughtsAndCrosses.Library.pdb
+C:\Users\Cooke\source\repos\NoughtsAndCrosses\NoughtsAndCrosses.Library\obj\Debug\net5.0\NoughtsAndCrosses.Library.genruntimeconfig.cache
